@@ -636,8 +636,6 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
-		<key>EfiVersion</key>
-		<string>220.200.252.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -654,10 +652,6 @@
 		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBookPro15,1</string>
-		<key>SerialNumber</key>
-		<string>C02WXAZ1KGYG</string>
-		<key>SmUUID</key>
-		<string>3BC099BF-FCB6-4E20-9AEB-C64C04075E18</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
