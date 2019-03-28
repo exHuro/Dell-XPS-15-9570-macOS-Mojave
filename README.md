@@ -57,6 +57,7 @@
  * 将CLOVER放入EFI分区，使用config_install.plist进系统完成安装
  * 进入桌面后运行`sudo kextcache -i /`重建缓存
  * 用config.plist完成使能集显加速
+ 
  `config_10.14.4.plist`是我为了准备升级10.14.4的朋友准备的，因为精力有限我还未能进行测试，期待有人反馈结果。
 
 # 已知问题
