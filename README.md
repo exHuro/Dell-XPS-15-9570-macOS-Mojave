@@ -1,5 +1,5 @@
 # Introduction
-> The EFI allows the XPS 9570 to work in a Mojave environment. Most of this configuration is based on [Xigtun](https://github.com/Xigtun/xps-9570-mojave), [bavariancake](https:/ /github.com/bavariancake/XPS9570-macOS) EFI borrowed from two friends, and 807133286 friends provided very timely partial updates. Here, I would like to thank them for their selfless help and dedication. I summarized the advantages and disadvantages of the configuration of Xigtun and bavariancake, as follows:
+> The EFI allows the XPS 9570 to work in a Mojave environment. Most of this configuration is based on [Xigtun](https://github.com/Xigtun/xps-9570-mojave), [bavariancake](https://github.com/bavariancake/XPS9570-macOS) EFI borrowed from two friends, and 807133286 friends provided very timely partial updates. Here, I would like to thank them for their selfless help and dedication. I summarized the advantages and disadvantages of the configuration of Xigtun and bavariancake, as follows:
 
 ## Xigtun
  ### Advantages
